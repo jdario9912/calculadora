@@ -1,0 +1,12 @@
+.freecodecamp-logo-contenedor{
+	align-items: center;
+	display: flex;
+	height: 50px;
+	justify-content: center;
+	margin: 8px;
+	width: 100%;
+}
+
+.freecodecamp-logo{
+	height: 40px;
+}
